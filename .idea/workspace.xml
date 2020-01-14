@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3ea1f652-5aca-4801-9f3b-a4c2000d7f21" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="b9877ae8-0bba-4690-994d-8f3b4b18b880" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/company/Prescription.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SOFT252CW.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SOFT252CW.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SOFT252CW/META-INF/SOFT252CW.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SOFT252CW/META-INF/SOFT252CW.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SOFT252CW/com/company/Data.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SOFT252CW/com/company/Data.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SOFT252CW/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SOFT252CW/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SOFT252CW/com/company/Patient.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SOFT252CW/com/company/Patient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Data.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Data.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Patient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Patient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Review.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Review.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Secretary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Secretary.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,35 +22,52 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1W7a5xQftUuZjmvn81GB3vBnofC" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1W8FnRuFX3KZIENMoGNRFm2JUjO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/company" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\coursework\SOFT252CW\src\com\company" />
+    </key>
   </component>
   <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
       <module name="SOFT252CW" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="SOFT252CW" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -50,21 +78,80 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3ea1f652-5aca-4801-9f3b-a4c2000d7f21" name="Default Changelist" comment="" />
-      <created>1578502907661</created>
+      <changelist id="b9877ae8-0bba-4690-994d-8f3b4b18b880" name="Default Changelist" comment="" />
+      <created>1578523481674</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1578502907661</updated>
-      <workItem from="1578502921065" duration="15668000" />
+      <updated>1578523481674</updated>
+      <workItem from="1578523483229" duration="7990000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="294" y="159" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578527144307">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="294" y="159" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1578527144307" />
+    <state x="569" y="288" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1578527081864">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="569" y="288" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1578527081864" />
+    <state x="570" y="251" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1578528512214">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="570" y="251" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1578528512214" />
+    <state x="574" y="266" key="EnvironmentVariablesDialog" timestamp="1578527143016">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="574" y="266" key="EnvironmentVariablesDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1578527143016" />
+    <state x="709" y="267" key="FileChooserDialogImpl" timestamp="1578532021583">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="620" y="259" key="FileChooserDialogImpl/0.0.1680.1010@0.0.1680.1010" timestamp="1578527134771" />
+    <state x="709" y="267" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1578532021583" />
+    <state width="1637" height="272" key="GridCell.Tab.0.bottom" timestamp="1578528797583">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="272" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1578528797583" />
+    <state width="1637" height="272" key="GridCell.Tab.0.center" timestamp="1578528797583">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="272" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1578528797583" />
+    <state width="1637" height="272" key="GridCell.Tab.0.left" timestamp="1578528797582">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="272" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1578528797582" />
+    <state width="1637" height="272" key="GridCell.Tab.0.right" timestamp="1578528797583">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="272" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1578528797583" />
+    <state x="341" y="147" key="SettingsEditor" timestamp="1578526787048">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="341" y="147" key="SettingsEditor/0.0.1680.1010@0.0.1680.1010" timestamp="1578526787048" />
+    <state x="222" y="125" key="new project wizard" timestamp="1578524023099">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="222" y="125" key="new project wizard/0.0.1680.1010@0.0.1680.1010" timestamp="1578524023099" />
   </component>
 </project>
